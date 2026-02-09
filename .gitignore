@@ -1,0 +1,10 @@
+**/checkpoints
+/ALAE/training_artifacts
+/data/age.npy
+/data/gender.npy
+/data/latents.npy
+/data/test_images.npy
+/notebooks/face_comparisons
+**/.ipynb_checkpoints
+/LightSB-OU.zip
+/old_zips
