@@ -32,13 +32,11 @@ The LightSB-OU and original LightSB code is in `src/` along with some helper .py
 ## Citation
 
 ```
-@misc{puchkin2025tightboundsschrodingerpotential,
-      title={Tight Bounds for Schr\"odinger Potential Estimation in Unpaired Data Translation}, 
-      author={Nikita Puchkin and Denis Suchkov and Alexey Naumov and Denis Belomestny},
-      year={2025},
-      eprint={2508.07392},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2508.07392}, 
+@inproceedings{puchkin2026tight,
+ title = {Tight Bounds for Schrodinger Potential Estimation in Unpaired Data Translation},
+ author = {Nikita Puchkin and Denis Suchkov and Alexey Naumov and Denis Belomestny},
+ booktitle = {The Fourteenth International Conference on Learning Representations},
+ year = {2026},
+ url = {https://openreview.net/forum?id=2I4a6qsesO}
 }
 ```
